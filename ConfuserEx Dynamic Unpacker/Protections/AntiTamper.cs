@@ -65,12 +65,6 @@ namespace ConfuserEx_Dynamic_Unpacker.Protections
         {
             var sections = module.MetaData.PEImage.ImageSectionHeaders;
 
-            if (sections.Count == 3)
-            {
-
-                return false;
-            }
-
             foreach (var section in sections)
             {
                 switch (section.DisplayName)

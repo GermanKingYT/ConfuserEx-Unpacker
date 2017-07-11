@@ -20,3 +20,13 @@ D:\backup8-6-17\docs\Visual Studio 2017\Projects\ConfuserEx Dynamic Unpacker\Con
 D:\backup8-6-17\docs\Visual Studio 2017\Projects\ConfuserEx Dynamic Unpacker\ConfuserEx Dynamic Unpacker\obj\Debug\ConfuserEx Dynamic Unpacker.csprojResolveAssemblyReference.cache
 D:\backup8-6-17\docs\Visual Studio 2017\Projects\ConfuserEx Dynamic Unpacker\ConfuserEx Dynamic Unpacker\obj\Debug\ConfuserEx Dynamic Unpacker.exe
 D:\backup8-6-17\docs\Visual Studio 2017\Projects\ConfuserEx Dynamic Unpacker\ConfuserEx Dynamic Unpacker\obj\Debug\ConfuserEx Dynamic Unpacker.pdb
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\bin\Debug\ConfuserEx Dynamic Unpacker.exe.config
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\bin\Debug\ConfuserEx Dynamic Unpacker.exe
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\bin\Debug\ConfuserEx Dynamic Unpacker.pdb
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\bin\Debug\de4dot.blocks.dll
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\bin\Debug\dnlib.dll
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\bin\Debug\de4dot.blocks.pdb
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\bin\Debug\dnlib.pdb
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\obj\Debug\ConfuserEx Dynamic Unpacker.csprojResolveAssemblyReference.cache
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\obj\Debug\ConfuserEx Dynamic Unpacker.exe
+C:\Users\Xenocode\Source\Repos\ConfuserEx-Unpacker\ConfuserEx Dynamic Unpacker\obj\Debug\ConfuserEx Dynamic Unpacker.pdb
